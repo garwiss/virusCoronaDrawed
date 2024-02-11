@@ -34,8 +34,7 @@ while True:
 
 
 # # Renk listesi
-# colors = ["yellow", "red", "green", "blue", "purple"]  # İstediğiniz renkleri buraya ekleyebilirsiniz
-
+# colors = ["yellow", "red", "green", "blue", "purple"]  
 # while True:
 #     a = 0
 #     b = 0
